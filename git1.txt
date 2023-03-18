@@ -1,2 +1,6 @@
-Welcome to JOMACS ICT
+JOMACS provides services in the following areas:
+Web Development
+DevOps Engineering
+Software Development
+Data ScienceWelcome to JOMACS ICT
 TODAY IS OUR FIRST DAY LEARNING GIT
